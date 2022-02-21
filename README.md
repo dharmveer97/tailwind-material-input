@@ -3,4 +3,4 @@ Custom tailwind css material input
 
 
 
-for preview use (Tailwindcss)[https://play.tailwindcss.com/]
+for preview use [https://play.tailwindcss.com/](Tailwindcss)
